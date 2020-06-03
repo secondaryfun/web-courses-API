@@ -1,0 +1,22 @@
+{
+  "name": "online-courses-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "writeToFile.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "btoa-atob": "^0.1.2",
+    "buffer": "^5.6.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.17",
+    "node-fetch": "^2.6.0"
+  }
+}
