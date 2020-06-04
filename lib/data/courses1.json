@@ -1,0 +1,63 @@
+[
+    {
+        "count": 10000,
+        "next": "https://www.udemy.com/api-2.0/courses/?page=2&page_size=100",
+        "previous": null,
+        "results": [
+            {
+                "_class": "course",
+                "id": 362328,
+                "title": "AWS Certified Solutions Architect - Associate 2020",
+                "url": "/course/aws-certified-solutions-architect-associate/",
+                "is_paid": true,
+                "price": "$179.99",
+                "price_detail": {
+                    "amount": 179.99,
+                    "currency_symbol": "$",
+                    "price_string": "$179.99",
+                    "currency": "USD"
+                },
+                "price_serve_tracking_id": "MwH0GXo_RJGLOlvR4iz51Q",
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "title": "Ryan Kroonenburg",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/646294_3e1d_3.jpg",
+                        "url": "/user/ryankroonenburg/",
+                        "display_name": "Ryan Kroonenburg",
+                        "name": "Ryan",
+                        "job_title": "Solutions Architect",
+                        "initials": "RK",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/646294_3e1d_3.jpg"
+                    },
+                    {
+                        "_class": "user",
+                        "title": "Faye Ellis",
+                        "image_50x50": "https://img-a.udemycdn.com/user/50x50/44848936_b7c8_2.jpg",
+                        "url": "/user/faye-ellis-2/",
+                        "display_name": "Faye Ellis",
+                        "name": "Faye",
+                        "job_title": "Instructor at A Cloud Guru",
+                        "initials": "FE",
+                        "image_100x100": "https://img-a.udemycdn.com/user/100x100/44848936_b7c8_2.jpg"
+                    }
+                ],
+                "image_125_H": "https://img-a.udemycdn.com/course/125_H/362328_91f3_10.jpg",
+                "image_240x135": "https://img-a.udemycdn.com/course/240x135/362328_91f3_10.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-a.udemycdn.com/course/480x270/362328_91f3_10.jpg",
+                "published_title": "aws-certified-solutions-architect-associate",
+                "tracking_id": "lFVIMMriQBeP0WXeCuyzkw",
+                "predictive_score": null,
+                "relevancy_score": 111,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "headline": "Want to pass the AWS Solutions Architect - Associate Exam? Want to become Amazon Web Services Certified? Do this course!",
+                "instructor_name": null
+            }
+        ]
+    }
+]
