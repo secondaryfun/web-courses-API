@@ -1,0 +1,298 @@
+{
+    "_class": "course",
+    "id": 362328,
+    "title": "AWS Certified Solutions Architect - Associate 2020",
+    "url": "/course/aws-certified-solutions-architect-associate/",
+    "is_paid": true,
+    "price": "$179.99",
+    "price_detail": {
+        "amount": 179.99,
+        "price_string": "$179.99",
+        "currency": "USD",
+        "currency_symbol": "$"
+    },
+    "price_serve_tracking_id": "Xhm6k9NTTACXbsNuC3kv8g",
+    "visible_instructors": [
+        {
+            "url": "/user/ryankroonenburg/",
+            "image_50x50": "https://img-a.udemycdn.com/user/50x50/646294_3e1d_3.jpg",
+            "image_100x100": "https://img-a.udemycdn.com/user/100x100/646294_3e1d_3.jpg",
+            "name": "Ryan",
+            "display_name": "Ryan Kroonenburg",
+            "job_title": "Solutions Architect",
+            "_class": "user",
+            "title": "Ryan Kroonenburg",
+            "initials": "RK"
+        },
+        {
+            "url": "/user/faye-ellis-2/",
+            "image_50x50": "https://img-a.udemycdn.com/user/50x50/44848936_b7c8_2.jpg",
+            "image_100x100": "https://img-a.udemycdn.com/user/100x100/44848936_b7c8_2.jpg",
+            "name": "Faye",
+            "display_name": "Faye Ellis",
+            "job_title": "Instructor at A Cloud Guru",
+            "_class": "user",
+            "title": "Faye Ellis",
+            "initials": "FE"
+        }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/362328_91f3_10.jpg",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/362328_91f3_10.jpg",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/362328_91f3_10.jpg",
+    "published_title": "aws-certified-solutions-architect-associate",
+    "tracking_id": "-o3BzobUS8KYpgzCSV1PeQ",
+    "description": "<p><strong>Note: Our course material, like the AWS&nbsp;certification exams, are continually evolving. This course covers all you need to know to pass the 2019 exam AND&nbsp;the new 2020 exam (now available in Beta but will be generally available in 2020). Over half a million students have done our courses on Udemy. This course will be updated for free throughout 2020 and is the one stop shop for everything you need to pass the AWS Solutions Architect Associate exam.</strong></p><p>Are you looking for AWS Training? </p><p>Amazon Web Services (AWS) Certification is fast becoming the must have certificates for any IT professional working with AWS. This course is designed to help you pass the AWS Certified Solutions Architect (CSA) - Associate Exam. Even if you have never logged in to the AWS platform before, by the end of our AWS training you will be able to take the CSA exam. No programming knowledge needed and no prior AWS experience required. With this AWS certification under your belt (and optionally after completing our AWS Certified Developer 2020&nbsp;- also available on Udemy), you will be in high demand by many employers and you can command a superior salary.&nbsp; </p><p>&nbsp; \t&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In this course we will start with a broad overview of the AWS platform and then deep dive into the individual elements of the AWS platform. You will explore Route53, EC2, S3, CloudFront, Auto Scaling, Load Balancing, RDS, RedShift, DynamoDB, EMR, VPC etc.</p><p>&nbsp; \tRead the fantastic reviews of our course!&nbsp; </p><p>&nbsp; \t&nbsp; &nbsp; Alex describes this course as <strong><em>\"The best course out there\"</em></strong>&nbsp; </p><p>&nbsp; \t&nbsp; &nbsp; Steve says the course was <strong><em>\"A God send\"</em></strong>&nbsp; </p><p>&nbsp; \t&nbsp; &nbsp; And Adam says <strong><em>\"You must take this course if you're taking the exam\"</em></strong>&nbsp; </p><p>&nbsp; \t&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AWS are constantly evolving their platform, in 2019&nbsp;there have been over 1500 new product releases. As 2020&nbsp;progresses we will continuously update this course with new content so you will never have to worry about missing out or failing the AWS certification test because of new content. This is the best online AWS training available, at a great affordable rate.</p><p>&nbsp; \t&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Most lectures are 5 - 12 minutes long, with almost no lecture being over 20 minutes in length. I am an AWS Certified Solutions Architect, Developer and Systems Administrator living in London with over 17 years experience in IT. This course is cheaper than most other courses because I am not doing this as a full time job, rather because I love teaching cloud. So join me in becoming A Cloud Guru today and get your AWS Solutions Architect Associate qualification by completing our AWS online course today!&nbsp; </p>",
+    "headline": "Want to pass the AWS Solutions Architect - Associate Exam? Want to become Amazon Web Services Certified? Do this course!",
+    "num_subscribers": 542775,
+    "caption_locales": [
+        {
+            "_class": "locale",
+            "locale": "es_ES",
+            "title": "Español (España)",
+            "english_title": "Spanish (Spain)"
+        },
+        {
+            "_class": "locale",
+            "locale": "en_US",
+            "title": "English (US)",
+            "english_title": "English (US)"
+        },
+        {
+            "_class": "locale",
+            "locale": "pt_BR",
+            "title": "Português (Brasil)",
+            "english_title": "Portuguese (Brazil)"
+        },
+        {
+            "_class": "locale",
+            "locale": "it_IT",
+            "title": "Italiano",
+            "english_title": "Italian"
+        }
+    ],
+    "discount": {
+        "discount_percent_for_display": 30,
+        "campaign": {
+            "code": "STARTLEARNINGNOW",
+            "uses_remaining": null,
+            "campaign_type": "deal",
+            "end_time": "2020-06-04T01:34:41-07:00",
+            "is_public": true,
+            "is_instructor_created": false,
+            "maximum_uses": null,
+            "start_time": "2020-04-13T16:00:00Z"
+        },
+        "code": "STARTLEARNINGNOW",
+        "discount_percent": 30,
+        "price": {
+            "amount": 125.99,
+            "price_string": "$125.99",
+            "currency": "USD",
+            "currency_symbol": "$"
+        },
+        "list_price": {
+            "amount": 179.99,
+            "price_string": "$179.99",
+            "currency": "USD",
+            "currency_symbol": "$"
+        },
+        "saving_price": {
+            "amount": 54,
+            "price_string": "$54.00",
+            "currency": "USD",
+            "currency_symbol": "$"
+        },
+        "is_public": true,
+        "price_serve_tracking_id": "Xhm6k9NTTACXbsNuC3kv8g",
+        "has_discount_saving": true,
+        "buyable": {
+            "id": 362328,
+            "type": "course"
+        }
+    },
+    "discount_price": {
+        "amount": 126,
+        "price_string": "$126",
+        "currency": "USD",
+        "currency_symbol": "$"
+    },
+    "avg_rating": 4.53167,
+    "avg_rating_recent": 4.52413,
+    "rating": 4.52413,
+    "num_reviews": 179668,
+    "num_reviews_recent": 11587,
+    "rating_distribution": [
+        {
+            "rating": 1,
+            "count": 967
+        },
+        {
+            "rating": 2,
+            "count": 2041
+        },
+        {
+            "rating": 3,
+            "count": 15046
+        },
+        {
+            "rating": 4,
+            "count": 63755
+        },
+        {
+            "rating": 5,
+            "count": 97859
+        }
+    ],
+    "favorite_time": null,
+    "archive_time": null,
+    "earnings": "$0.00",
+    "completion_ratio": 0,
+    "is_wishlisted": false,
+    "num_quizzes": 25,
+    "num_lectures": 233,
+    "num_published_lectures": 107,
+    "num_published_quizzes": 11,
+    "num_curriculum_items": 258,
+    "num_of_published_curriculum_objects": 118,
+    "num_cpe_credits": null,
+    "is_private": false,
+    "num_practice_tests": 3,
+    "num_published_practice_tests": 2,
+    "original_price_text": "$179.99",
+    "quality_status": "approved",
+    "status_label": "Live",
+    "can_edit": false,
+    "features": {
+        "announcements_comments_view": true,
+        "discussions_create": true,
+        "enroll": true,
+        "discussions_view": true,
+        "reviews_view": true,
+        "discussions_replies_create": true,
+        "reviews_responses_create": true,
+        "promotions_view": true,
+        "reviews_create": true,
+        "promotional_announcements_create": true,
+        "educational_announcements_create": true,
+        "promotions_create": true,
+        "students_view": true,
+        "_class": "course"
+    },
+    "gift_url": "https://www.udemy.com/gift/aws-certified-solutions-architect-associate/",
+    "num_invitation_requests": 0,
+    "notification_settings": {},
+    "is_banned": false,
+    "is_published": true,
+    "intended_category": null,
+    "image_48x27": "https://img-a.udemycdn.com/course/48x27/362328_91f3_10.jpg",
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/362328_91f3_10.jpg",
+    "image_75x75": "https://img-a.udemycdn.com/course/75x75/362328_91f3_10.jpg",
+    "image_96x54": "https://img-a.udemycdn.com/course/96x54/362328_91f3_10.jpg",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/362328_91f3_10.jpg",
+    "image_200_H": "https://img-a.udemycdn.com/course/200_H/362328_91f3_10.jpg",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/362328_91f3_10.jpg",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/362328_91f3_10.jpg",
+    "has_certificate": true,
+    "primary_category": {
+        "url": "/courses/it-and-software/",
+        "channel_id": 1646,
+        "title_cleaned": "it-and-software",
+        "id": 294,
+        "_class": "course_category",
+        "title": "IT & Software",
+        "icon_class": "udi udi-it-and-software",
+        "type": "category"
+    },
+    "primary_subcategory": {
+        "url": "/courses/it-and-software/it-certification/",
+        "channel_id": 1766,
+        "title_cleaned": "it-certification",
+        "id": 132,
+        "_class": "course_subcategory",
+        "title": "IT Certification",
+        "icon_class": "udi udi-it-certification",
+        "type": "subcategory"
+    },
+    "is_enrollable_on_mobile": false,
+    "is_in_any_ufb_content_collection": false,
+    "is_in_subscribed_content_collections": false,
+    "locale": {
+        "title": "English (US)",
+        "english_title": "English (US)",
+        "_class": "locale",
+        "locale": "en_US",
+        "simple_english_title": "English"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+        "English [Auto-generated]",
+        "Italian [Auto-generated]",
+        "Portuguese [Auto-generated]",
+        "Spanish [Auto-generated]"
+    ],
+    "created": "2014-12-03T15:19:44Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "estimated_content_length": 877,
+    "content_info": "14.5 total hours",
+    "content_length_practice_test_questions": 146,
+    "requirements_data": {
+        "items": [
+            "You will need to set up an AWS Account (you can use the free tier for this course)",
+            "Your own domain name (optional, but recommended)",
+            "A Windows, Linux or Mac PC/Laptop"
+        ]
+    },
+    "what_you_will_learn_data": {
+        "items": [
+            "Pass the AWS Certified Solutions Architect - Associate 2020 Exam",
+            "Design Highly Resilient and Scaleable Websites on AWS",
+            "Become Intimately Familiar With The AWS Platform",
+            "Become Amazon Certified",
+            "Become A Cloud Guru"
+        ]
+    },
+    "who_should_attend_data": {
+        "items": [
+            "AWS Absolute Beginners. No prior AWS experience necessary",
+            "Existing Solutions Architects",
+            "Programmers Interested in Deploying Applications on AWS",
+            "People interested in hosting highly scaleable, fault tolerant applications (such as Wordpress and Joomla) on the AWS cloud."
+        ]
+    },
+    "is_available_on_google_app": true,
+    "organization_id": null,
+    "google_in_app_purchase_price_text": "$119.99",
+    "promo_asset": {
+        "description": "",
+        "title_cleaned": "acg_ryank_csaa_2019_promo_v1mp4",
+        "id": 16903606,
+        "status": 1,
+        "_class": "asset",
+        "title": "ACG_RyanK_CSAA_2019_Promo_v1.mp4",
+        "asset_type": "Video",
+        "download_urls": {
+            "Video": [
+                {
+                    "type": "video/mp4",
+                    "label": "720",
+                    "file": "https://mp4-b.udemycdn.com/2019-03-01_10-08-35-9b01572b591453bf6f8bc40d02d6cb1a/WebHD_720p.mp4?secure=TnhMRyXlsFvum_gdXgIfbg%3D%3D%2C1591254281"
+                },
+                {
+                    "type": "video/mp4",
+                    "label": "480",
+                    "file": "https://mp4-b.udemycdn.com/2019-03-01_10-08-35-9b01572b591453bf6f8bc40d02d6cb1a/WebHD_480.mp4?secure=8UlvFbtr4vBf7gWXdunRXg%3D%3D%2C1591254281"
+                },
+                {
+                    "type": "video/mp4",
+                    "label": "360",
+                    "file": "https://mp4-b.udemycdn.com/2019-03-01_10-08-35-9b01572b591453bf6f8bc40d02d6cb1a/WebHD.mp4?secure=Ym8nfWykMu1CLJg-foHalg%3D%3D%2C1591254281"
+                },
+                {
+                    "type": "video/mp4",
+                    "label": "144",
+                    "file": "https://mp4-b.udemycdn.com/2019-03-01_10-08-35-9b01572b591453bf6f8bc40d02d6cb1a/Web_144.mp4?secure=8QiEOALvtjYAyvxWlWxz0w%3D%3D%2C1591254281"
+                }
+            ]
+        }
