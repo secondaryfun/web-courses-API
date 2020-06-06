@@ -13,7 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "btoa-atob": "^0.1.2",
     "buffer": "^5.6.0",
     "express": "^4.17.1",
     "mongoose": "^5.9.17",
